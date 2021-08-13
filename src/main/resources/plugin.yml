@@ -1,0 +1,11 @@
+name: Autospawn
+version: 1.0
+main: org.pixel.autospawn.Main
+api-version: 1.16
+authors: [ PixelAgent007 ]
+
+commands:
+   setspawn:
+      description: Set the spawn
+   spawn:
+      description: TP to the spawn
